@@ -1,0 +1,9 @@
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\bin\Debug\Test1.dll
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\bin\Debug\Test1.pdb
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\bin\Debug\Xamarin.Forms.Core.dll
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\bin\Debug\Xamarin.Forms.Core.xml
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\obj\Debug\Test1.dll
+D:\Proyectos\Calavera Solutions\Sources\Prototipos\Pruebas\Test1\Test1\obj\Debug\Test1.pdb
